@@ -1,0 +1,15 @@
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\obj\Debug\net6.0\projeto_RPG_DIO.csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\obj\Debug\net6.0\projeto_RPG_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\obj\Debug\net6.0\projeto_RPG_DIO.AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\obj\Debug\net6.0\projeto_RPG_DIO.AssemblyInfo.cs
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\obj\Debug\net6.0\projeto_RPG_DIO.csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\bin\Debug\net6.0\projeto_RPG_DIO.exe
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\bin\Debug\net6.0\projeto_RPG_DIO.deps.json
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\bin\Debug\net6.0\projeto_RPG_DIO.runtimeconfig.json
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\bin\Debug\net6.0\projeto_RPG_DIO.dll
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\bin\Debug\net6.0\ref\projeto_RPG_DIO.dll
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\bin\Debug\net6.0\projeto_RPG_DIO.pdb
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\obj\Debug\net6.0\projeto_RPG_DIO.dll
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\obj\Debug\net6.0\ref\projeto_RPG_DIO.dll
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\obj\Debug\net6.0\projeto_RPG_DIO.pdb
+C:\Users\mp_ma\Documents\DIO\projeto_RPG_DIO\obj\Debug\net6.0\projeto_RPG_DIO.genruntimeconfig.cache
